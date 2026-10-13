@@ -1,0 +1,15 @@
+#divone {
+    height: 200px;
+    width: 70px;
+    border: 2px;
+}
+
+#divtwo {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin : 10px;
+    border-radius: 50%;
+    padding: 2px
+    color
+}

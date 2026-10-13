@@ -1,0 +1,32 @@
+#container {
+    height:400px;
+    width:400px;
+    font-size:50px;
+    border: 2px solid cyan;
+    display : flex;
+    flex-wrap : wrap;
+}
+
+#container div {
+    width:30%;
+    height:30%;
+}
+
+.first {
+    border: 2px solid black;
+    border-radius: 10%;
+    background: grey;
+
+}
+
+.second {
+    border: 2px solid black;
+    border-radius: 10%;
+    background: grey;
+}
+
+.third {
+    border: 2px solid black;
+    border-radius: 10%;
+    background: grey;
+}
